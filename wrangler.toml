@@ -14,5 +14,5 @@ entry-point = "./"
 # uncomment and adjust following if you are not using GitHub Actions
 #[env.production]
 #kv-namespaces = [{binding="KV_STATUS_PAGE", id="xxxx", preview_id=""}]
-zone_id="f6474b30b347bc45178cc13c4bfd1830"
-route="status.dallasthe.dev/*"
+##zone_id="f6474b30b347bc45178cc13c4bfd1830"
+#route="status.dallasthe.dev/*"
